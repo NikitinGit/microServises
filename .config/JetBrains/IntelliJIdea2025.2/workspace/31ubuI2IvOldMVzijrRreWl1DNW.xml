@@ -6,33 +6,86 @@
       </GroupState>
     </option>
   </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="service_db2@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="service_db2@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="service_db2: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="service_db2@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="service_db2: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="Family of 2 table (host: schema service_db2)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="ummnxpa0x16g">
-      <file current-in-tab="true">
+    <leaf ideFingerprint="ummnxpa0x16g" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
         <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service2/Service2Application.java" file-id="422095" managing-fs="1756837188405">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="256">
-              <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+            <state relative-caret-position="286">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
         <tab><![CDATA[{"tabTitle":"Service2Application.java","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties" file-id="422103" managing-fs="1756837188405">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="308">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"application.properties","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,84,10,20,105,99,111,110,115,47,83,112,114,105,110,103,66,111,111,116,46,115,118,103,18,26,105,99,111,110,115,47,101,120,112,117,105,47,115,112,114,105,110,103,66,111,111,116,46,115,118,103,26,24,99,111,109,46,105,110,116,101,108,108,105,106,46,115,112,114,105,110,103,46,98,111,111,116,40,-5,-40,-98,-123,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="das://d9726c61-27d9-4e32-a4f2-5d356ab406c3/schema/service_db2/table/user" managing-fs="1756837188405">
+          <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider" selected="true">
+            <state lastOpenedTimestamp="1756974099219" presentationMode="TABLE" projectRestartId="cba8092f-304b-4c87-9c68-7d6bd37d5435" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"user","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,15,105,99,111,110,115,47,116,97,98,108,101,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,116,97,98,108,101,46,115,118,103,26,21,99,111,109,46,105,110,116,101,108,108,105,106,46,100,97,116,97,98,97,115,101,40,-102,-5,-71,-113,5,48,0]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 1,
-      "lastUsed": 1756969131749
+      "usageCount": 2,
+      "lastUsed": 1756974100435
+    },
+    "Database Element": {
+      "usageCount": 2,
+      "lastUsed": 1756974100419
+    },
+    "Properties": {
+      "usageCount": 2,
+      "lastUsed": 1756974100432
     }
   }
 }]]></component>
-  <component name="IdeDocumentHistory"><![CDATA[{
-  "changedPaths": [
-    "/home/user/idea/service2/src/main/java/com/example/service2/Service2Application.java"
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/user/idea/service2/src/main/java/com/example/service2/Service2Application.java&quot;
   ]
-}]]></component>
+}</component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -42,7 +95,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="1" lastUsage="1756969131749" />
+      <summary usageCount="2" lastUsage="1756974100435" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="2" lastUsage="1756974100432" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -87,6 +143,13 @@
               <item name="dir{file:///home/user/idea/service2/src/main}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/user/idea/service2/src/main/java}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/user/idea/service2/src/main/java/com/example/service2}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="service2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/idea/service2}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/idea/service2/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/idea/service2/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/idea/service2/src/main/resources}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,6 +279,33 @@
                     </attributes>
                     <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
                     <item name="dir{file:///home/user/idea/service2/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/static" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="static" />
+                      <item name="dir{file:///home/user/idea/service2/src/main/resources/static}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/templates" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="templates" />
+                      <item name="dir{file:///home/user/idea/service2/src/main/resources/templates}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/resources/application.properties" />
+                        </map>
+                      </attributes>
+                      <data iconPath="icons/expui/springBoot.svg" iconPlugin="com.intellij.spring.boot" isLeaf="true" text="application.properties" />
+                      <item name="application.properties" type="ab9368bb:PsiFileNode" />
+                    </presentation>
                   </presentation>
                 </presentation>
                 <presentation>
@@ -317,37 +407,186 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.Service2Application" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="Local" workingDirectory="$PROJECT_DIR$" />
+    </option>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="329000" />
+    <option name="totallyTimeSpent" value="3829000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17131083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08889325" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3299926" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Build" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.3299926" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.3299926" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
-      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="2" visible="true" weight="0.17131083" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights left="0.17131083" />
+      <unified_weights bottom="0.3299926" left="0.08889325" right="0.17131083" />
     </layoutV2>
     <recentWindows>
+      <value>Terminal</value>
+      <value>Debug</value>
+      <value>Database</value>
       <value>Project</value>
+      <value>Run</value>
     </recentWindows>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="811" y="285" width="876" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1756969606073">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="811" y="285" width="876" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1756969606073" />
+    <state x="999" y="382" width="500" height="555" key="FileChooserDialogImpl" timestamp="1756972333120">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="999" y="382" width="500" height="555" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1756972333120" />
+    <state width="2466" height="402" key="GridCell.Tab.0.bottom" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.0.center" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.0.left" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.0.right" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.1.bottom" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.1.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.1.center" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.1.center/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.1.left" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.1.left/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.1.right" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.1.right/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.2.bottom" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.2.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.2.center" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.2.center/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.2.left" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.2.left/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.2.right" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.2.right/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.3.bottom" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.3.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.3.center" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.3.center/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.3.left" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.3.left/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.3.right" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.3.right/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.4.bottom" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.4.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.4.center" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.4.center/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.4.left" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.4.left/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.4.right" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.4.right/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.5.bottom" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.5.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.5.center" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.5.center/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.5.left" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.5.left/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state width="2466" height="402" key="GridCell.Tab.5.right" timestamp="1756975450240">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2466" height="402" key="GridCell.Tab.5.right/0.0.2560.1440@0.0.2560.1440" timestamp="1756975450240" />
+    <state x="624" y="165" width="1183" height="959" key="SettingsEditor" timestamp="1756974745465">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="624" y="165" width="1183" height="959" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1756974745465" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="das://d9726c61-27d9-4e32-a4f2-5d356ab406c3/schema/service_db2/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1756974099219" presentationMode="TABLE" projectRestartId="cba8092f-304b-4c87-9c68-7d6bd37d5435" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service2/Service2Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="9" column="63" lean-forward="true" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+        <state relative-caret-position="286">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>

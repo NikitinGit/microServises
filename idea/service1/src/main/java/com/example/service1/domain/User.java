@@ -1,18 +1,20 @@
-package com.example.microservises.domain;
+package com.example.service1.domain;
 
 import jakarta.persistence.*;
+import lombok.Getter;
+import lombok.Setter;
 
 @Entity
-@Table(name="users")
+@Getter
+@Setter
+@Table(name="user")
 public class User {
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name="id")
     private Long id;
+
     @Column(name="name")
     private String name;
-    @Column(name="email")
-    private String email;
-
-    // Геттеры и сеттеры
 }
