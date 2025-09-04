@@ -1,0 +1,24 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker"><![CDATA[{
+  "projectData": {
+    "MAVEN": {
+      "microServises": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "/home/user/idea/microServises/pom.xml": 3059945619,
+            "/home/user/idea/microServises/.mvn/wrapper/maven-wrapper.properties": 4192810845
+          }
+        }
+      }
+    }
+  }
+}]]></component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="RestoreUpdateTree"><![CDATA[{}]]></component>
+</project>
