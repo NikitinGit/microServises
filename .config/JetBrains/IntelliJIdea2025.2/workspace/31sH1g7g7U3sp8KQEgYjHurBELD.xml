@@ -31,12 +31,12 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose-database.yml" file-id="500934" managing-fs="1756837188405">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="484">
-              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="375">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"docker-compose-database.yml","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,112,10,27,105,99,111,110,115,47,68,111,99,107,101,114,67,111,109,112,111,115,101,70,105,108,101,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,100,111,99,107,101,114,67,111,109,112,111,115,101,46,115,118,103,26,6,68,111,99,107,101,114,34,29,105,110,116,101,108,108,105,106,46,99,108,111,117,100,115,46,100,111,99,107,101,114,46,115,104,97,114,101,100,40,-31,-28,-116,-21,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"docker-compose-database.yml","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,112,10,27,105,99,111,110,115,47,68,111,99,107,101,114,67,111,109,112,111,115,101,70,105,108,101,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,100,111,99,107,101,114,67,111,109,112,111,115,101,46,115,118,103,26,6,68,111,99,107,101,114,34,29,105,110,116,101,108,108,105,106,46,99,108,111,117,100,115,46,100,111,99,107,101,114,46,115,104,97,114,101,100,40,-31,-28,-116,-21,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
       </file>
     </leaf>
   </component>
@@ -56,8 +56,23 @@
     }
   }
 }]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>service_healthy</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
   <component name="GitBranchesPopupTreeState">
     <expand>
+      <path>
+        <item name="TreeRoot" type="a5f834f:GitBranchesTreeModel$TreeRoot" />
+        <item name="RECENT" type="98a275ee:GitBranchType$RECENT" />
+      </path>
       <path>
         <item name="TreeRoot" type="a5f834f:GitBranchesTreeModel$TreeRoot" />
         <item name="LOCAL" type="6e158aa5:GitBranchType$LOCAL" />
@@ -362,7 +377,7 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7357000" />
+    <option name="totallyTimeSpent" value="9721000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
@@ -397,6 +412,18 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="843" y="317" width="876" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1756978862538" />
+    <state x="406" y="199" width="876" height="629" key="Vcs.Push.Dialog.v2" timestamp="1756984877207">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="406" y="199" width="876" height="629" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1756984877207" />
+    <state x="1044" y="103" width="649" height="864" key="find.popup" timestamp="1756985169754">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1044" y="103" width="649" height="864" key="find.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1756985169754" />
+    <state x="36" y="36" width="2424" height="1244" key="lvcs.dialog.size" timestamp="1756986887894">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="36" y="36" width="2424" height="1244" key="lvcs.dialog.size/0.0.2560.1440@0.0.2560.1440" timestamp="1756986887894" />
     <state x="848" y="305" width="800" height="773" key="new project wizard" timestamp="1756979946050">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -424,8 +451,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose-database.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="375">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>

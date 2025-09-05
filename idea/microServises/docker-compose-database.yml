@@ -1,16 +1,27 @@
-
 version: '3.9'
 services:
-  mysql:
+  mysql_service1:
     image: mysql:8
-    container_name: mysql
+    container_name: mysql_service1
     environment:
       MYSQL_ROOT_PASSWORD: gtngtngtnN5
       MYSQL_DATABASE: service_db1
     ports:
-      - "3307:3306"
-    volumes:
-      - mysql_data:/var/lib/mysql
+      - "3309:3306"
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-pgtngtngtnN5"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  mysql_service2:
+    image: mysql:8
+    container_name: mysql_service2
+    environment:
+      MYSQL_ROOT_PASSWORD: gtngtngtnN5
+      MYSQL_DATABASE: service_db2
+    ports:
+      - "3310:3306"
     healthcheck:
       test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-pgtngtngtnN5"]
       interval: 5s
@@ -21,16 +32,26 @@ services:
     build:
       context: /home/user/idea/service1
       dockerfile: Dockerfile
-    container_name: service1
-    ports:
-      - "8086:8080"
     depends_on:
-      mysql:
+      mysql_service1:
         condition: service_healthy
     environment:
-      SPRING_PROFILES_ACTIVE: docker
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_service1:3306/service_db1
       SPRING_DATASOURCE_USERNAME: root
       SPRING_DATASOURCE_PASSWORD: gtngtngtnN5
+    ports:
+      - "8081:8080"
 
-volumes:
-  mysql_data:
+  service2:
+    build:
+      context: /home/user/idea/service2
+      dockerfile: Dockerfile
+    depends_on:
+      mysql_service2:
+        condition: service_healthy
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mysql://mysql_service2:3306/service_db2
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: gtngtngtnN5
+    ports:
+      - "8082:8080"

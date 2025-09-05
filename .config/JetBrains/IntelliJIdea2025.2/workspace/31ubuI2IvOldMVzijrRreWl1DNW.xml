@@ -41,8 +41,8 @@
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties" file-id="422103" managing-fs="1756837188405">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="308">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -51,7 +51,7 @@
       <file>
         <entry file="das://d9726c61-27d9-4e32-a4f2-5d356ab406c3/schema/service_db2/table/user" managing-fs="1756837188405">
           <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider" selected="true">
-            <state lastOpenedTimestamp="1756974099219" presentationMode="TABLE" projectRestartId="cba8092f-304b-4c87-9c68-7d6bd37d5435" pageSize="500">
+            <state lastOpenedTimestamp="1756980806803" presentationMode="TABLE" projectRestartId="0e02c663-2c4f-4917-af2f-707eea2d105c" pageSize="500">
               <filtering>
                 <filter text="" />
               </filtering>
@@ -68,24 +68,25 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 2,
-      "lastUsed": 1756974100435
+      "usageCount": 3,
+      "lastUsed": 1756980806988
     },
     "Database Element": {
-      "usageCount": 2,
-      "lastUsed": 1756974100419
+      "usageCount": 3,
+      "lastUsed": 1756980806985
     },
     "Properties": {
-      "usageCount": 2,
-      "lastUsed": 1756974100432
+      "usageCount": 3,
+      "lastUsed": 1756980806926
     }
   }
 }]]></component>
-  <component name="IdeDocumentHistory">{
-  &quot;changedPaths&quot;: [
-    &quot;/home/user/idea/service2/src/main/java/com/example/service2/Service2Application.java&quot;
+  <component name="IdeDocumentHistory"><![CDATA[{
+  "changedPaths": [
+    "/home/user/idea/service2/src/main/java/com/example/service2/Service2Application.java",
+    "/home/user/idea/service2/src/main/resources/application.properties"
   ]
-}</component>
+}]]></component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -95,10 +96,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="2" lastUsage="1756974100435" />
+      <summary usageCount="3" lastUsage="1756980806988" />
     </language>
     <language id="Properties">
-      <summary usageCount="2" lastUsage="1756974100432" />
+      <summary usageCount="3" lastUsage="1756980806926" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -423,7 +424,7 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3829000" />
+    <option name="totallyTimeSpent" value="5045000" />
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
@@ -564,9 +565,16 @@
     <state x="624" y="165" width="1183" height="959" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1756974745465" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="das://d9726c61-27d9-4e32-a4f2-5d356ab406c3/schema/service_db2/table/user">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state lastOpenedTimestamp="1756974099219" presentationMode="TABLE" projectRestartId="cba8092f-304b-4c87-9c68-7d6bd37d5435" pageSize="500">
+        <state lastOpenedTimestamp="1756980806803" presentationMode="TABLE" projectRestartId="0e02c663-2c4f-4917-af2f-707eea2d105c" pageSize="500">
           <filtering>
             <filter text="" />
           </filtering>
@@ -579,14 +587,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/example/service2/Service2Application.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
